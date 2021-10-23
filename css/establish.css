@@ -1,5 +1,31 @@
+
+/* ==============================
+             公司登記項目 
+====================================*/
 .notice-message
 {
     color:red;
     font-size: 10px;
+}
+
+/* ==============================
+             公司設立流程 
+====================================*/
+.process-img-block
+{
+    box-shadow: 1px 2px 3px 1px #a3a3a3f8;
+    border-radius: 10px 10px;
+}
+
+.process-desc-block
+{
+    font-size: 0.9em;
+    padding-top:10px;
+    padding-left:10%;
+    padding-right:3px;
+}
+
+.process-desc .ul-establish-desc li
+{
+    padding-bottom: 3px;
 }
