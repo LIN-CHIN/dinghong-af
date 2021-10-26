@@ -29,3 +29,14 @@
 {
     padding-bottom: 3px;
 }
+
+
+.diposite-box span.col-desc {
+    float: none;
+    font-size: 12px;
+    color: #1b1b1b;
+    background: none;
+    padding: 0 0 ;
+    border-radius: none;
+    line-height: none;
+}
